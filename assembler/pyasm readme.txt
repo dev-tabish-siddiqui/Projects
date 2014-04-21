@@ -1,0 +1,1 @@
+This is an assembler made by using python code. The code uses an input file to create binary from the input file by the use of the assembler. 
